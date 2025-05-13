@@ -1,0 +1,6 @@
+# Application dependencies
+runpod>=0.0.9
+vllm>=0.1.16
+optimum>=1.12.0
+transformers>=4.30.0
+torch>=2.0.0
