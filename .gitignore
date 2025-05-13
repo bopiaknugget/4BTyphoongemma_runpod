@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# dotenv environment variables
+.env
+
+# RunPod local files (if any)
+*.retry
+
+# Docker
+docker-compose.override.yml
+Dockerfile
+
+# macOS
+.DS_Store
